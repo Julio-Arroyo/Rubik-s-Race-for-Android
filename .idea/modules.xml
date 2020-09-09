@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rubiks_Race.iml" filepath="$PROJECT_DIR$/.idea/modules/Rubiks_Race.iml" group="Rubiks_Race" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/android.iml" group="Rubiks Race/android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core.iml" group="Rubiks Race/core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/desktop.iml" group="Rubiks Race/desktop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/html/html.iml" filepath="$PROJECT_DIR$/.idea/modules/html/html.iml" group="Rubiks Race/html" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ios/ios.iml" filepath="$PROJECT_DIR$/.idea/modules/ios/ios.iml" group="Rubiks Race/ios" />
+    </modules>
+  </component>
+</project>
